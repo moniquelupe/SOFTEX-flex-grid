@@ -19,7 +19,7 @@ Para clonar e executar este projeto, execute na sua linha de comando:
 
 ```bash
 # Clonando este repositório
-$ git clone [https://github.com/moniquelupe/SOFTEX-flex-grid.git]
+$ git clone [https://github.com/moniquelupe/SOFTEX-flex-grid]
 
 # Acessando o repositório
 $ cd SOFTEX-flex-grid

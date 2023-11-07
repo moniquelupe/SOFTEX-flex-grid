@@ -19,10 +19,10 @@ Para clonar e executar este projeto, execute na sua linha de comando:
 
 ```bash
 # Clonando este repositório
-$ git clone https://github.com/augustocesarfmo/layout-responsivo-html.git
+$ git clone [https://github.com/moniquelupe/SOFTEX-flex-grid.git]
 
 # Acessando o repositório
-$ cd layout-responsivo-html
+$ cd SOFTEX-flex-grid
 ```
 
 ## 📝 Licença
